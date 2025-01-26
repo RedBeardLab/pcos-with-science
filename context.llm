@@ -1,0 +1,28 @@
+# Hugo Website with Bear Blog Theme
+
+This is a Hugo website using the Bear Blog theme.
+
+## Theme Information
+- Theme Name: Bear Blog
+- Theme Repository: https://github.com/janraasch/hugo-bearblog
+
+## Configuration
+- The config.toml file has been updated with new configuration for the PCOS Guide website.
+
+## Content
+- The existing content of the website has been updated.
+- The content from the pcos-diagnosis page has been incorporated into the _index.md file.
+- The separate pcos-diagnosis page has been eliminated to streamline the content structure.
+
+## Recent Changes
+- Updated the config.toml file with a new title: "PCOS Guide: Understanding Polycystic Ovary Syndrome"
+- Changed the website description to reflect PCOS-specific content.
+- Updated the author to "PCOS Health Professionals"
+- Modified the menu structure to include PCOS-specific pages (Symptoms, Diagnosis, Treatment Options, Resources)
+
+## Next Steps
+- Create content for the new menu items (Symptoms, Diagnosis, Treatment Options, Resources).
+- Review the updated _index.md file to ensure all information is accurate and well-organized.
+- Update any internal links that may have pointed to the now-removed pcos-diagnosis page.
+- Consider adding more detailed content about PCOS treatment options and lifestyle recommendations.
+- Ensure the Bear Blog theme is properly installed and configured.
