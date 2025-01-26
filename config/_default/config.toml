@@ -1,0 +1,44 @@
+baseURL = "/"
+title = "PCOS Guide: Understanding Polycystic Ovary Syndrome"
+theme = "hugo-bearblog"
+
+[params]
+  description = "Comprehensive information about Polycystic Ovary Syndrome (PCOS), its symptoms, diagnosis, and management"
+  author = "PCOS Health Professionals"
+  favicon = "favicon.ico"
+  logo = "img/logo.png"
+
+[menu]
+  [[menu.main]]
+    identifier = "symptoms-check"
+    name = "Symptoms Check"
+    url = "/symptoms-check/"
+    weight = 2
+  [[menu.main]]
+    identifier = "pcos-diagnosis"
+    name = "PCOS Diagnosis"
+    url = "/pcos-diagnosis/"
+    weight = 3
+  [[menu.main]]
+    identifier = "treatment-plan"
+    name = "Treatment Plan"
+    url = "/treatment-plan/"
+    weight = 4
+  [[menu.main]]
+    identifier = "severe-symptoms"
+    name = "Severe Symptoms"
+    url = "/severe-symptoms/"
+    weight = 5
+  [[menu.main]]
+    identifier = "consult-provider"
+    name = "Consult Provider"
+    url = "/consult-provider/"
+    weight = 6
+  [[menu.main]]
+    identifier = "irregular-periods"
+    name = "Irregular Periods"
+    url = "/irregular-periods/"
+    weight = 7
+
+[markup.goldmark.renderer]
+  unsafe = true
