@@ -3,6 +3,8 @@ title: "Recognizing Clinical Signs of Hyperandrogenism in PCOS"
 date: 2025-01-27
 ---
 
+[Previous: Understanding Irregular Menstrual Cycles](../irregular-menstrual-cycles)
+
 # Recognizing Clinical Signs of Hyperandrogenism
 
 When diagnosing Polycystic Ovary Syndrome (PCOS), doctors look for signs of higher levels of male hormones (androgens) in the body. This condition is called hyperandrogenism. Let's explore what this means and how it might show up in your body.
@@ -53,5 +55,5 @@ If you're experiencing persistent acne, noticeable excess hair growth, or hair l
 
 Understanding the clinical signs of hyperandrogenism is an important part of diagnosing PCOS. In our next article, we'll discuss the role of biochemical tests in PCOS diagnosis, including how doctors measure androgen levels in your blood.
 
-[Previous: Understanding Irregular Menstrual Cycles](irregular-menstrual-cycles)
-[Next: The Role of Biochemical Tests in PCOS Diagnosis](biochemical-tests-pcos)
+[Previous: Understanding Irregular Menstrual Cycles](../irregular-menstrual-cycles)
+[Next: The Role of Biochemical Tests in PCOS Diagnosis](../biochemical-tests-pcos)
