@@ -1,3 +1,14 @@
+---
+title: "Next Steps: Consulting a Healthcare Provider"
+date: 2023-01-28T20:55:37+01:00
+draft: false
+description: "Learn how to prepare for and what to expect during a healthcare provider consultation for PCOS diagnosis and management."
+categories: ["Diagnosis"]
+tags: ["PCOS", "Healthcare Provider", "Consultation", "Diagnosis", "Treatment"]
+---
+
+[Previous: Associated Health Risks of PCOS](../associated-health-risks-pcos)
+
 # Next Steps: Consulting a Healthcare Provider
 
 If you suspect you might have Polycystic Ovary Syndrome (PCOS) or have been recently diagnosed, the next important step is to consult with a healthcare provider. This article will guide you through what to expect and how to prepare for your consultation.
@@ -69,12 +80,4 @@ Remember, you're not alone in this journey. PCOS is a common condition, and with
 
 ## Related Articles
 
-- [Introduction to PCOS](/diagnosis/introduction-to-pcos)
-- [Irregular Menstrual Cycles](/diagnosis/irregular-menstrual-cycles)
-- [Clinical Signs of Hyperandrogenism](/diagnosis/clinical-signs-hyperandrogenism)
-- [Biochemical Tests in PCOS Diagnosis](/diagnosis/biochemical-tests-pcos)
-- [Ultrasound and Polycystic Ovarian Morphology](/diagnosis/ultrasound-and-pcom)
-- [PCOS Diagnosis in Adolescents](/diagnosis/pcos-diagnosis-adolescents)
-- [PCOS and Ethnicity](/diagnosis/pcos-and-ethnicity)
-- [PCOS Beyond Reproductive Years](/diagnosis/pcos-beyond-reproductive-years)
-- [Associated Health Risks of PCOS](/diagnosis/associated-health-risks-pcos)
+- [Previous: Associated Health Risks of PCOS](../associated-health-risks-pcos)
