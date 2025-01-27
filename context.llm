@@ -1,28 +1,42 @@
 # Hugo Website with Bear Blog Theme
 
-This is a Hugo website using the Bear Blog theme.
+Website to help women, and parents to:
+
+1. Cope
+1. Understand
+1. Manage
+1. Access educated treatment
+
+about PCOS.
 
 ## Theme Information
 - Theme Name: Bear Blog
 - Theme Repository: https://github.com/janraasch/hugo-bearblog
 
 ## Configuration
-- The config.toml file has been updated with new configuration for the PCOS Guide website.
+- The config/_default/config.toml file has been updated with new configuration for the PCOS Guide website.
 
-## Content
-- The existing content of the website has been updated.
-- The content from the pcos-diagnosis page has been incorporated into the _index.md file.
-- The separate pcos-diagnosis page has been eliminated to streamline the content structure.
+## Data
 
-## Recent Changes
-- Updated the config.toml file with a new title: "PCOS Guide: Understanding Polycystic Ovary Syndrome"
-- Changed the website description to reflect PCOS-specific content.
-- Updated the author to "PCOS Health Professionals"
-- Modified the menu structure to include PCOS-specific pages (Symptoms, Diagnosis, Treatment Options, Resources)
+All the data comes from official medical protocols, under peer reviews.
 
-## Next Steps
-- Create content for the new menu items (Symptoms, Diagnosis, Treatment Options, Resources).
-- Review the updated _index.md file to ensure all information is accurate and well-organized.
-- Update any internal links that may have pointed to the now-removed pcos-diagnosis page.
-- Consider adding more detailed content about PCOS treatment options and lifestyle recommendations.
-- Ensure the Bear Blog theme is properly installed and configured.
+The data was transformed into CSV form to be easily managed by LLMs.
+
+We have two versions of the data:
+
+1. The file: data.csv
+1. The folder: data/
+
+The files inside the data folders are simply the same in the data.csv but splitted by argument.
+
+The CSV has the following columns: No,Type,Recommendation,Grade,Quality
+
+## Website content
+
+The content of the website is in markdown format in the content/ folder.
+
+_index.md is the homepage.
+
+## Editorial Plan
+
+An editorial plan for a series of articles on PCOS diagnosis has been created in the diagnosis.llm file. This plan outlines 10 articles designed to help women and parents understand and navigate the PCOS diagnostic process. Each article is based on information from the diagnostic assessment guidelines provided in data/1_diagnostic_assessment.csv.

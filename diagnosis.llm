@@ -1,0 +1,87 @@
+# Editorial Plan: Do I Have PCOS?
+
+This editorial plan outlines a series of interlinked articles designed to help women and parents understand and navigate the diagnosis of Polycystic Ovary Syndrome (PCOS). Each article will be based on information from the diagnostic assessment guidelines provided in data/1_diagnostic_assessment.csv.
+
+## 1. Introduction to PCOS and its Diagnosis
+
+- Overview of PCOS and its prevalence
+- Introduction to the diagnostic algorithm (Algorithm 1)
+- Brief overview of the main diagnostic criteria
+
+Data used: 1, 1.6.1, 1.6.2
+
+## 2. Understanding Irregular Menstrual Cycles
+
+- Definition of irregular menstrual cycles at different life stages
+- Importance of menstrual cycle patterns in PCOS diagnosis
+- Considerations for adolescents
+
+Data used: 1.1.1, 1.1.2, 1.1.3, 1.1.4, 1.1.5
+
+## 3. Recognizing Clinical Signs of Hyperandrogenism
+
+- Explanation of clinical hyperandrogenism (hirsutism, acne, female pattern hair loss)
+- How to assess and report these symptoms
+- Variations in presentation across ethnicities
+
+Data used: 1.3.1, 1.3.2, 1.3.3, 1.3.4, 1.3.5, 1.3.6, 1.3.7
+
+## 4. The Role of Biochemical Tests in PCOS Diagnosis
+
+- Overview of androgen testing (total and free testosterone, androstenedione, DHEAS)
+- Importance of accurate testing methods
+- Considerations for women on hormonal contraceptives
+
+Data used: 1.2.1, 1.2.2, 1.2.3, 1.2.4, 1.2.5, 1.2.6, 1.2.7, 1.2.8, 1.2.9, 1.2.10, 1.2.11
+
+## 5. Ultrasound and Polycystic Ovarian Morphology
+
+- Explanation of polycystic ovarian morphology (PCOM)
+- Role of ultrasound in PCOS diagnosis
+- Introduction to Anti-Müllerian Hormone (AMH) testing
+
+Data used: 1.4.1, 1.4.2, 1.4.3, 1.4.4, 1.4.5, 1.4.7, 1.4.8, 1.4.9, 1.4.10, 1.4.11, 1.5.1, 1.5.2, 1.5.3, 1.5.5, 1.5.6, 1.5.7
+
+## 6. PCOS Diagnosis in Adolescents
+
+- Special considerations for diagnosing PCOS in adolescents
+- Importance of reassessment and follow-up
+- Limitations of certain diagnostic criteria in adolescents
+
+Data used: 1.1.3, 1.1.4, 1.2.8, 1.4.6, 1.5.4
+
+## 7. PCOS and Ethnicity
+
+- Prevalence of PCOS across different ethnicities
+- Variations in PCOS presentation among ethnic groups
+- Importance of culturally sensitive diagnosis and care
+
+Data used: 1.6.1, 1.6.2, 1.6.3, 1.3.6
+
+## 8. PCOS Beyond Reproductive Years
+
+- PCOS as a lifelong condition
+- Diagnosis and symptoms in postmenopausal women
+- Importance of long-term health management
+
+Data used: 1.7.1, 1.7.2, 1.7.3, 1.7.4
+
+## 9. Associated Health Risks of PCOS
+
+- Cardiovascular disease risk
+- Type 2 diabetes and impaired glucose tolerance
+- Obstructive sleep apnea
+- Endometrial hyperplasia and cancer
+- Risks for first-degree relatives
+
+Data used: 1.8.1, 1.8.2, 1.8.3, 1.8.4, 1.9.1, 1.9.2, 1.9.3, 1.9.7, 1.9.8, 1.9.9, 1.9.10, 1.9.11, 1.10.1, 1.10.2, 1.10.3, 1.11.1, 1.11.2, 1.11.3, 1.11.4, 1.11.5, 1.12.1, 1.12.2
+
+## 10. Next Steps: Consulting a Healthcare Provider
+
+- Importance of professional medical advice
+- What to expect during a PCOS consultation
+- Preparing for your appointment
+
+Data used: General recommendations from the entire dataset
+
+Each article will link to the others, creating a comprehensive guide through the PCOS diagnostic process. The content will be based on the latest medical recommendations and guidelines as provided in the data/1_diagnostic_assessment.csv file.
