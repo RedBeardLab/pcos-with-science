@@ -3,9 +3,9 @@
 Website to help women, and parents to:
 
 1. Cope
-1. Understand
-1. Manage
-1. Access educated treatment
+2. Understand
+3. Manage
+4. Access educated treatment
 
 about PCOS.
 
@@ -25,7 +25,7 @@ The data was transformed into CSV form to be easily managed by LLMs.
 We have two versions of the data:
 
 1. The file: data.csv
-1. The folder: data/
+2. The folder: data/
 
 The files inside the data folders are simply the same in the data.csv but splitted by argument.
 
@@ -40,3 +40,20 @@ _index.md is the homepage.
 ## Editorial Plan
 
 An editorial plan for a series of articles on PCOS diagnosis has been created in the diagnosis.llm file. This plan outlines 10 articles designed to help women and parents understand and navigate the PCOS diagnostic process. Each article is based on information from the diagnostic assessment guidelines provided in data/1_diagnostic_assessment.csv.
+
+## Completed Articles
+
+The following articles have been created in the content/diagnosis/ folder:
+
+1. introduction-to-pcos.md
+2. irregular-menstrual-cycles.md
+3. clinical-signs-hyperandrogenism.md
+4. biochemical-tests-pcos.md
+5. ultrasound-and-pcom.md
+6. pcos-diagnosis-adolescents.md
+7. pcos-and-ethnicity.md
+8. pcos-beyond-reproductive-years.md
+9. associated-health-risks-pcos.md
+10. consulting-healthcare-provider.md
+
+These articles cover various aspects of PCOS diagnosis, from understanding the basics to consulting healthcare providers. They are written in simple, precise language to cater to young women who may not have high levels of education. Each article includes links to other relevant articles in the series for easy navigation.
