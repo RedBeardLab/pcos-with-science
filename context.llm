@@ -37,6 +37,33 @@ The content of the website is in markdown format in the content/ folder.
 
 _index.md is the homepage.
 
+## structure
+
+This is a hugo blog.
+
+The content must be in Markdown with a preamble.
+
+The preamble looks likes:
+
+```
+---
+title: "The Role of Biochemical Tests in PCOS Diagnosis"
+date: 2025-01-27
+---
+```
+
+### Links
+
+Links follow the hugo convention.
+
+Paths with a leading `/` are absolutes and path without a leading `/` are RELATIVE TO THE CURRENT FILE.
+
+Hence, to link to pages within the same folder, the link should starts with `../`.
+
+### Next and previous
+
+If we are writing articles with a next and previous link, always use a unordered list.
+
 ## Editorial Plan
 
 An editorial plan for a series of articles on PCOS diagnosis has been created in the diagnosis.llm file. This plan outlines 10 articles designed to help women and parents understand and navigate the PCOS diagnostic process. Each article is based on information from the diagnostic assessment guidelines provided in data/1_diagnostic_assessment.csv.
@@ -57,3 +84,4 @@ The following articles have been created in the content/diagnosis/ folder:
 10. consulting-healthcare-provider.md
 
 These articles cover various aspects of PCOS diagnosis, from understanding the basics to consulting healthcare providers. They are written in simple, precise language to cater to young women who may not have high levels of education. Each article includes links to other relevant articles in the series for easy navigation.
+
