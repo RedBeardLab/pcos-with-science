@@ -1,3 +1,21 @@
+---
+title: "Associated Health Risks of PCOS"
+date: 2023-01-09
+draft: false
+description: "Learn about the health risks associated with Polycystic Ovary Syndrome (PCOS) and how to manage them effectively."
+categories: 
+- "Diagnosis"
+tags: 
+- "PCOS"
+- "Health Risks"
+- "Cardiovascular Disease"
+- "Type 2 Diabetes"
+- "Sleep Apnea"
+- "Endometrial Cancer"
+---
+
+[Previous: PCOS Beyond Reproductive Years](../pcos-beyond-reproductive-years)
+
 # Associated Health Risks of PCOS
 
 When you have Polycystic Ovary Syndrome (PCOS), it's important to understand that it's not just about your reproductive health. PCOS can affect your overall health in various ways. Let's explore some of the health risks associated with PCOS and what you can do about them.
@@ -65,11 +83,5 @@ If you have PCOS, it's important to work closely with your healthcare provider t
 
 ## Related Articles
 
-- [Introduction to PCOS](/diagnosis/introduction-to-pcos)
-- [Irregular Menstrual Cycles](/diagnosis/irregular-menstrual-cycles)
-- [Clinical Signs of Hyperandrogenism](/diagnosis/clinical-signs-hyperandrogenism)
-- [Biochemical Tests in PCOS Diagnosis](/diagnosis/biochemical-tests-pcos)
-- [Ultrasound and Polycystic Ovarian Morphology](/diagnosis/ultrasound-and-pcom)
-- [PCOS Diagnosis in Adolescents](/diagnosis/pcos-diagnosis-adolescents)
-- [PCOS and Ethnicity](/diagnosis/pcos-and-ethnicity)
-- [PCOS Beyond Reproductive Years](/diagnosis/pcos-beyond-reproductive-years)
+- [Previous: PCOS Beyond Reproductive Years](../pcos-beyond-reproductive-years)
+- [Next: Consulting Healthcare Provider](../consulting-healthcare-provider)

@@ -1,3 +1,13 @@
+---
+title: "Ultrasound and Polycystic Ovarian Morphology (PCOM)"
+date: 2023-01-05T00:00:00+00:00
+description: "Learn about the role of ultrasound in diagnosing PCOS and understanding Polycystic Ovarian Morphology (PCOM)."
+categories: ["Diagnosis"]
+tags: ["PCOS", "Ultrasound", "PCOM", "Ovarian Morphology"]
+---
+
+[Previous: Biochemical Tests in PCOS Diagnosis](../biochemical-tests-pcos)
+
 # Ultrasound and Polycystic Ovarian Morphology (PCOM)
 
 If you're on the journey to understanding PCOS, you might have heard about ultrasounds and something called "polycystic ovarian morphology" or PCOM. Don't worry if these terms sound confusing - we're here to explain them in simple terms.
@@ -43,7 +53,5 @@ Remember, only a healthcare professional can diagnose PCOS. If you're concerned 
 
 ## Related Articles
 
-- [Introduction to PCOS](/diagnosis/introduction-to-pcos)
-- [Irregular Menstrual Cycles](/diagnosis/irregular-menstrual-cycles)
-- [Clinical Signs of Hyperandrogenism](/diagnosis/clinical-signs-hyperandrogenism)
-- [Biochemical Tests in PCOS Diagnosis](/diagnosis/biochemical-tests-pcos)
+- [Previous: Biochemical Tests in PCOS Diagnosis](../biochemical-tests-pcos)
+- [Next: PCOS Diagnosis in Adolescents](../pcos-diagnosis-adolescents)

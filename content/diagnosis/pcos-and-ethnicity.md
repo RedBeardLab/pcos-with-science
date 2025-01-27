@@ -1,4 +1,11 @@
+---
+title: "PCOS and Ethnicity"
+date: 2025-01-27
+---
+
 # PCOS and Ethnicity
+
+[Previous Article: PCOS Diagnosis in Adolescents](../pcos-diagnosis-adolescents)
 
 Polycystic Ovary Syndrome (PCOS) affects women of all backgrounds, but did you know that it might look a little different depending on your ethnicity? Let's explore how PCOS varies across different ethnic groups and why this matters for diagnosis and treatment.
 
@@ -47,13 +54,9 @@ Understanding these differences is important because:
 
 4. When seeking help for PCOS, it can be helpful to see a healthcare provider who understands how PCOS can vary across different ethnicities.
 
-If you're concerned about PCOS, don't hesitate to [talk to a healthcare provider](/consult-provider). They can help you understand how PCOS might affect you personally, considering all aspects of your health, including your ethnic background.
+If you're concerned about PCOS, don't hesitate to [talk to a healthcare provider](../consult-provider). They can help you understand how PCOS might affect you personally, considering all aspects of your health, including your ethnic background.
 
 ## Related Articles
 
-- [Introduction to PCOS](/diagnosis/introduction-to-pcos)
-- [Irregular Menstrual Cycles](/diagnosis/irregular-menstrual-cycles)
-- [Clinical Signs of Hyperandrogenism](/diagnosis/clinical-signs-hyperandrogenism)
-- [Biochemical Tests in PCOS Diagnosis](/diagnosis/biochemical-tests-pcos)
-- [Ultrasound and Polycystic Ovarian Morphology](/diagnosis/ultrasound-and-pcom)
-- [PCOS Diagnosis in Adolescents](/diagnosis/pcos-diagnosis-adolescents)
+- [Previous: PCOS Diagnosis in Adolescents](../pcos-diagnosis-adolescents)
+- [Next: PCOS Beyond Reproductive Years](../pcos-beyond-reproductive-years)

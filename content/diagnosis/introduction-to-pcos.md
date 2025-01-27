@@ -43,4 +43,4 @@ If you have PCOS, it's important to be aware that you may have a higher risk of 
 Don't let this list worry you too much. Having PCOS doesn't mean you'll definitely develop these conditions. It just means it's extra important to take care of your health and have regular check-ups with your doctor.
 
 
-* [Next: Understanding Irregular Menstrual Cycles](../irregular-menstrual-cycles.md)
+* [Next: Understanding Irregular Menstrual Cycles](../irregular-menstrual-cycles/)

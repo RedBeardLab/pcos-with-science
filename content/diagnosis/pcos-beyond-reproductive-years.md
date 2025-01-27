@@ -1,3 +1,14 @@
+---
+title: "PCOS Beyond Reproductive Years"
+date: 2023-01-28T20:55:37+01:00
+draft: false
+description: "Explore how PCOS affects women beyond their reproductive years, including changes after menopause, ongoing health considerations, and management strategies."
+categories: ["Diagnosis"]
+tags: ["PCOS", "Menopause", "Hormonal Changes", "Health Risks"]
+---
+
+[Previous: PCOS and Ethnicity](../pcos-and-ethnicity)
+
 # PCOS Beyond Reproductive Years
 
 When we talk about Polycystic Ovary Syndrome (PCOS), we often focus on how it affects women during their reproductive years. But what happens when you reach menopause? Does PCOS just disappear? Let's explore how PCOS continues to impact women beyond their reproductive years.
@@ -45,10 +56,5 @@ If you're approaching menopause or are postmenopausal and have a history of PCOS
 
 ## Related Articles
 
-- [Introduction to PCOS](/diagnosis/introduction-to-pcos)
-- [Irregular Menstrual Cycles](/diagnosis/irregular-menstrual-cycles)
-- [Clinical Signs of Hyperandrogenism](/diagnosis/clinical-signs-hyperandrogenism)
-- [Biochemical Tests in PCOS Diagnosis](/diagnosis/biochemical-tests-pcos)
-- [Ultrasound and Polycystic Ovarian Morphology](/diagnosis/ultrasound-and-pcom)
-- [PCOS Diagnosis in Adolescents](/diagnosis/pcos-diagnosis-adolescents)
-- [PCOS and Ethnicity](/diagnosis/pcos-and-ethnicity)
+- [Previous: PCOS and Ethnicity](../pcos-and-ethnicity)
+- [Next: Associated Health Risks of PCOS](../associated-health-risks-pcos)
