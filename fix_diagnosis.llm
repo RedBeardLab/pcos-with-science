@@ -9,11 +9,12 @@ This file contains instructions for updating the diagnosis articles to include f
    b. A link to the previous article at the top
    c. Links to the previous and next articles at the bottom
 
-2. The links should follow the convention in 'context.llm'
+1. Links to the previous and next articles at the bottom MUST be an unorder lists, first the previous then the next file.
+
+2. The links should follow the conventions
    a. Paths with a leading `/` are absolutes and path without a leading `/` are RELATIVE TO THE CURRENT FILE.
    b. To link to pages within the same folder, the link should starts with `../`
    c. Links to files should NOT contains the prefix `.md` only the file name.
-
 
 3. Work on only the first file not marked as done.
 
@@ -26,7 +27,7 @@ This file contains instructions for updating the diagnosis articles to include f
 1. [x] content/diagnosis/introduction-to-pcos.md
 2. [x] content/diagnosis/irregular-menstrual-cycles.md
 3. [x] content/diagnosis/clinical-signs-hyperandrogenism.md
-4. [ ] content/diagnosis/biochemical-tests-pcos.md
+4. [x] content/diagnosis/biochemical-tests-pcos.md
 5. [ ] content/diagnosis/ultrasound-and-pcom.md
 6. [ ] content/diagnosis/pcos-diagnosis-adolescents.md
 7. [ ] content/diagnosis/pcos-and-ethnicity.md

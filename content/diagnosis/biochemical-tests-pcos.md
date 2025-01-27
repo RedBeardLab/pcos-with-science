@@ -3,6 +3,8 @@ title: "The Role of Biochemical Tests in PCOS Diagnosis"
 date: 2025-01-27
 ---
 
+[Previous: Recognizing Clinical Signs of Hyperandrogenism](../clinical-signs-hyperandrogenism)
+
 # The Role of Biochemical Tests in PCOS Diagnosis
 
 When diagnosing Polycystic Ovary Syndrome (PCOS), doctors often use blood tests to measure hormone levels. These tests, known as biochemical tests, play a crucial role in identifying hormonal imbalances associated with PCOS. Let's explore what these tests involve and what they can tell us.
@@ -59,5 +61,5 @@ In some cases, if you have irregular menstrual cycles and clear clinical signs o
 
 Understanding your androgen levels is an important part of diagnosing and managing PCOS. In our next article, we'll discuss how doctors use ultrasound to look at your ovaries and how this fits into the PCOS diagnosis process.
 
-[Previous: Recognizing Clinical Signs of Hyperandrogenism](clinical-signs-hyperandrogenism)
-[Next: Ultrasound and Polycystic Ovarian Morphology](ultrasound-and-pcom)
+- [Previous: Recognizing Clinical Signs of Hyperandrogenism](../clinical-signs-hyperandrogenism)
+- [Next: Ultrasound and Polycystic Ovarian Morphology](../ultrasound-and-pcom)
