@@ -3,6 +3,8 @@ title: "Understanding Irregular Menstrual Cycles in PCOS"
 date: 2025-01-27
 ---
 
+[Previous: Introduction to PCOS](../introduction-to-pcos)
+
 # Understanding Irregular Menstrual Cycles
 
 If you're here, you might be wondering about your periods and if they're "normal." When it comes to Polycystic Ovary Syndrome (PCOS), irregular periods are a key sign. Let's break down what this means in simple terms.
@@ -57,5 +59,5 @@ Remember, irregular periods don't always mean you have PCOS, but they are an imp
 
 Understanding your menstrual cycle is just one part of diagnosing PCOS. In our next article, we'll talk about other signs of PCOS, particularly those related to higher levels of male hormones in the body.
 
-[Previous: Introduction to PCOS](introduction-to-pcos)
-[Next: Recognizing Clinical Signs of Hyperandrogenism](clinical-signs-hyperandrogenism)
+- [Previous: Introduction to PCOS](../introduction-to-pcos)
+- [Next: Recognizing Clinical Signs of Hyperandrogenism](../clinical-signs-hyperandrogenism)
