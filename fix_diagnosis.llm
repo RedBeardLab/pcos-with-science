@@ -10,6 +10,10 @@ This file contains instructions for updating the diagnosis articles to include f
    c. Links to the previous and next articles at the bottom
 
 2. The links should follow the convention in 'context.llm'
+   a. Paths with a leading `/` are absolutes and path without a leading `/` are RELATIVE TO THE CURRENT FILE.
+   b. To link to pages within the same folder, the link should starts with `../`
+   c. Links to files should NOT contains the prefix `.md` only the file name.
+
 
 3. Work on only the first file not marked as done.
 
