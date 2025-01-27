@@ -1,4 +1,13 @@
+---
+title: "PCOS Diagnosis in Adolescents"
+date: 2025-01-27
+description: "Understanding the challenges and considerations in diagnosing PCOS in teenagers, including key symptoms, diagnostic criteria, and the importance of follow-up care."
+---
+
 # PCOS Diagnosis in Adolescents
+
+[Previous Article: Ultrasound and Polycystic Ovarian Morphology](../ultrasound-and-pcom)
+
 
 If you're a teenager and you're worried about PCOS, it's important to know that diagnosing PCOS in adolescents can be tricky. Your body is still developing, and some signs that might indicate PCOS in adults are actually normal for teens. Let's talk about what you need to know.
 
@@ -42,8 +51,5 @@ If you're concerned about PCOS, don't hesitate to [talk to a healthcare provider
 
 ## Related Articles
 
-- [Introduction to PCOS](/diagnosis/introduction-to-pcos)
-- [Irregular Menstrual Cycles](/diagnosis/irregular-menstrual-cycles)
-- [Clinical Signs of Hyperandrogenism](/diagnosis/clinical-signs-hyperandrogenism)
-- [Biochemical Tests in PCOS Diagnosis](/diagnosis/biochemical-tests-pcos)
-- [Ultrasound and Polycystic Ovarian Morphology](/diagnosis/ultrasound-and-pcom)
+- [Previous: Ultrasound and Polycystic Ovarian Morphology](../ultrasound-and-pcom)
+- [Next: PCOS and Ethnicity](../pcos-and-ethnicity)
