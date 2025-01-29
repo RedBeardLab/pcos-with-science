@@ -4,8 +4,6 @@ date: 2025-01-29
 tags: ["WeightStigma", "InclusiveCare", "PCOSAwareness"]
 ---
 
-[Previous Article: Understanding Weight Gain in PCOS](../understanding-weight-gain-pcos)
-
 Weight stigma is a significant issue that many women with Polycystic Ovary Syndrome (PCOS) face, both in healthcare settings and in their daily lives. This article aims to shed light on this important topic and provide strategies for promoting more inclusive and supportive care for women with PCOS.
 
 ## Understanding Weight Stigma in PCOS
@@ -66,4 +64,4 @@ As a woman with PCOS, you can take steps to advocate for yourself and combat wei
 
 Combating weight stigma is crucial for improving the care and quality of life for women with PCOS. By promoting weight-inclusive practices, healthcare professionals can provide more supportive and effective care. At the same time, women with PCOS can empower themselves with knowledge and self-advocacy. Remember, health comes in all sizes, and every woman with PCOS deserves respectful, comprehensive care that addresses all aspects of their health and well-being.
 
-* [Previous Article: Understanding Weight Gain in PCOS](../understanding-weight-gain-pcos)
+* [Next Article: Understanding Weight Gain in PCOS](../understanding-weight-gain-pcos)
