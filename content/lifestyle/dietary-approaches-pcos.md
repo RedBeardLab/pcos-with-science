@@ -59,6 +59,5 @@ Involving your family in your dietary changes can make a big difference. When yo
 
 Remember, every small step towards healthier eating is a victory. Be patient with yourself and celebrate your progress along the way. Your body will thank you for nourishing it with care and attention.
 
-[Previous Article: Mind Over Matter: Behavioral Strategies for PCOS Management](../behavioral-strategies-pcos)
-
-[Next Article: Moving for Health: Exercise Guidelines for Women with PCOS](../exercise-guidelines-pcos)
+- [Previous Article: Mind Over Matter: Behavioral Strategies for PCOS Management](../behavioral-strategies-pcos)
+- [Next Article: Moving for Health: Exercise Guidelines for Women with PCOS](../exercise-guidelines-pcos)
