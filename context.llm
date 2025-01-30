@@ -121,8 +121,8 @@ An editorial plan for a series of articles on the management of non-fertility fe
 
 The plan includes the following articles:
 
-1. Understanding Pharmacological Treatment for PCOS: A Comprehensive Guide
-2. The Role of Combined Oral Contraceptive Pills in PCOS Management
+1. Understanding Pharmacological Treatment for PCOS: A Comprehensive Guide (Completed)
+2. The Role of Combined Oral Contraceptive Pills in PCOS Management (Completed)
 3. Metformin: A Key Player in PCOS Treatment
 4. Managing Weight in PCOS: The Role of Anti-Obesity Medications
 5. Anti-Androgen Treatments for PCOS: Managing Hirsutism and Hair Loss
@@ -133,6 +133,15 @@ The plan includes the following articles:
 10. The Role of Metformin in PCOS Pregnancies: Benefits and Considerations
 
 Each article in the plan includes detailed information on the content to be covered, relevant datapoints from the guidelines, appropriate tags for categorization and SEO, and the proposed file name.
+
+## Completed Non-Fertility Management Articles
+
+The following articles in the non-fertility management series have been created and updated in the content/non_fertility/ folder:
+
+1. pharmacological-treatment-principles-pcos.md
+2. combined-oral-contraceptive-pills-pcos.md
+
+These articles provide comprehensive information on pharmacological treatment principles for PCOS and the role of combined oral contraceptive pills in PCOS management. They are written in simple, precise language to cater to young women who may not have high levels of education. Each article includes front matter, links to previous and next articles in the series, and relevant tags for easy navigation and SEO optimization.
 
 ## Next Steps
 
