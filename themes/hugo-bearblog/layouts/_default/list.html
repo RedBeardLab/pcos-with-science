@@ -6,6 +6,10 @@
     <a href="{{ "blog" | relURL }}">Remove filter</a>
   </small>
   {{ end }}
+  {{ if .Content }}
+    {{ .Content }}
+  {{ end}}
+  <h2>Table of content</h2>
   <ul class="blog-posts">
     {{ range .Pages }}
     <li>

@@ -1,0 +1,160 @@
+/* Feminine color palette */
+:root {
+  --background-color: #FFF5F7;
+  --heading-color: #D23F7F;
+  --text-color: #4A4A4A;
+  --link-color: #E84B8A;
+  --visited-color: #C64B8C;
+  --code-background-color: #FFF0F5;
+  --code-color: #86385F;
+  --blockquote-color: #4A4A4A;
+  --font-main: 'Playfair Display', Georgia, serif;
+  --font-secondary: 'Lora', 'Times New Roman', serif;
+  --width: 800px;
+}
+
+/* Dark mode adjustments */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #2D232F;
+    --heading-color: #FF9EC4;
+    --text-color: #F0E6E8;
+    --link-color: #FF8AB4;
+    --visited-color: #E87FAA;
+    --code-background-color: #3D2C3C;
+    --code-color: #FFB5D0;
+    --blockquote-color: #F0E6E8;
+  }
+}
+
+/* Base styles */
+body {
+  font-family: var(--font-secondary);
+  line-height: 1.8;
+  background-color: var(--background-color);
+}
+
+/* Headers with decorative elements */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-main);
+  color: var(--heading-color);
+  position: relative;
+  padding-bottom: 0.5em;
+}
+
+h1::after, h2::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100px;
+  height: 2px;
+  background: linear-gradient(to right, var(--heading-color), transparent);
+}
+
+/* Links with gentle hover effect */
+a {
+  color: var(--link-color);
+  transition: all 0.3s ease;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+a:hover {
+  border-bottom-color: var(--link-color);
+  text-decoration: none;
+}
+
+a:visited {
+  color: var(--visited-color);
+}
+
+/* Content containers with soft shadows */
+main {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 15px;
+  box-shadow: 0 4px 20px rgba(210, 63, 127, 0.1);
+  padding: 2em;
+  margin: 2em auto;
+}
+
+/* Navigation with elegant styling */
+nav {
+  border-bottom: 2px solid rgba(210, 63, 127, 0.2);
+  padding: 1em 0;
+  margin-bottom: 2em;
+}
+
+nav a {
+  margin: 0 1em;
+  padding: 0.5em 1em;
+  border-radius: 20px;
+  transition: all 0.3s ease;
+}
+
+nav a:hover {
+  background-color: rgba(210, 63, 127, 0.1);
+}
+
+/* Blockquotes with feminine flair */
+blockquote {
+  border-left: 3px solid var(--heading-color);
+  padding-left: 1.5em;
+  margin: 1.5em 0;
+  font-style: italic;
+  color: var(--blockquote-color);
+  position: relative;
+}
+
+blockquote::before {
+  content: """;
+  font-family: Georgia, serif;
+  font-size: 4em;
+  position: absolute;
+  left: -0.2em;
+  top: -0.4em;
+  color: rgba(210, 63, 127, 0.1);
+}
+
+/* Code blocks with softer appearance */
+code {
+  border-radius: 5px;
+  font-size: 0.95em;
+}
+
+/* Tables with gentle borders */
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 1em 0;
+}
+
+th, td {
+  padding: 12px;
+  border-bottom: 1px solid rgba(210, 63, 127, 0.1);
+}
+
+th {
+  background-color: rgba(210, 63, 127, 0.05);
+  color: var(--heading-color);
+}
+
+/* List styling */
+ul.blog-posts {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul.blog-posts li {
+  padding: 0.5em 0;
+  border-bottom: 1px solid rgba(210, 63, 127, 0.1);
+  transition: all 0.3s ease;
+}
+
+ul.blog-posts li:hover {
+  background-color: rgba(210, 63, 127, 0.05);
+  padding-left: 1em;
+}
