@@ -57,6 +57,5 @@ Before starting COCP treatment, it's crucial to have a thorough discussion with 
 
 Remember, while COCPs can be very effective in managing PCOS symptoms, they're not the right choice for everyone. Always consult with a healthcare professional to determine the best treatment plan for your individual needs.
 
-[Previous Article: Understanding Pharmacological Treatment for PCOS: A Comprehensive Guide](../pharmacological-treatment-principles-pcos)
-
+- [Previous Article: Understanding Pharmacological Treatment for PCOS: A Comprehensive Guide](../pharmacological-treatment-principles-pcos)
 - [Next Article: Metformin: A Key Player in PCOS Treatment](../metformin-pcos-management)
