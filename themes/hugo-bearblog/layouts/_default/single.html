@@ -10,6 +10,9 @@
 </p>
 {{ end }}{{ end }}
 <content>
+  {{ if .Title }}
+    <h1>{{.Title}}</h1>
+  {{ end }}
   {{ .Content }}
 </content>
 <p>

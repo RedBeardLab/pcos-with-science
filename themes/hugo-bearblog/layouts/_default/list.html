@@ -7,6 +7,9 @@
   </small>
   {{ end }}
   {{ if .Content }}
+    {{ if .Title }}
+      <h1>{{.Title}}</h1>
+    {{ end }}
     {{ .Content }}
   {{ end}}
   <h2>Table of content</h2>
