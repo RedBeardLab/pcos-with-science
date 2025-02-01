@@ -29,25 +29,33 @@ PCOS can manifest with various symptoms, including:
 
 Remember, having some of these symptoms doesn't necessarily mean you have PCOS, and not all women with PCOS will experience all of these symptoms.
 
-## Do You Have a Diagnosis of PCOS?
+## Your PCOS Journey Starts Here
 
-### Already Diagnosed?
+### Need Treatment Options?
+Looking for ways to manage your PCOS symptoms? Our treatment section covers:
+- Medication options including hormonal treatments
+- Metabolic health management strategies
+- Complementary approaches and supplements
+- Personalized treatment planning
 
-If you have already been diagnosed with PCOS by a healthcare provider:
+[Explore Treatment Options](/treatment)
 
-[Yes, I have a PCOS diagnosis](/treatment-plan)
+### Managing Your Lifestyle
+Discover evidence-based lifestyle changes that can help manage PCOS:
+- Practical dietary approaches
+- Exercise guidelines tailored for PCOS
+- Behavioral strategies for sustainable changes
+- Weight management without stigma
 
-### Not Yet Diagnosed?
+[Learn About Lifestyle Management](/lifestyle)
 
-If you haven't been diagnosed but are experiencing symptoms that you think might be related to PCOS:
+### Understanding Diagnosis
+Learn about the diagnostic process and what to expect:
+- Diagnostic criteria and testing
+- Common signs and symptoms
+- Special considerations for different age groups
+- Associated health conditions
 
-[No, I don't have a PCOS diagnosis](/symptoms-check)
-
-## What You'll Find in This Guide
-
-- Detailed information about PCOS diagnosis
-- Guidance on recognizing PCOS symptoms
-- Treatment options for various PCOS-related issues
-- Lifestyle recommendations for managing PCOS
+[Read About PCOS Diagnosis](/diagnosis)
 
 Remember, this guide is for informational purposes only. Only a healthcare professional can provide a definitive diagnosis of PCOS. If you're experiencing symptoms or have concerns, it's important to consult with a doctor or gynecologist.

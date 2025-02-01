@@ -1,44 +1,28 @@
 baseURL = "/"
-title = "PCOS Guide: Understanding Polycystic Ovary Syndrome"
+title = "PCOS With Science: Understanding Polycystic Ovary Syndrome"
 theme = "hugo-bearblog"
 
 [params]
-  description = "Comprehensive information about Polycystic Ovary Syndrome (PCOS), its symptoms, diagnosis, and management"
-  author = "PCOS Health Professionals"
+  description = "Comprehensive information about Polycystic Ovary Syndrome (PCOS), its symptoms, diagnosis, and management. By Science."
   favicon = "favicon.ico"
   logo = "img/logo.png"
 
 [menu]
   [[menu.main]]
-    identifier = "symptoms-check"
-    name = "Symptoms Check"
-    url = "/symptoms-check/"
+    identifier = "diagnosis"
+    name = "Diagnosis"
+    url = "/diagnosis"
     weight = 2
   [[menu.main]]
-    identifier = "pcos-diagnosis"
-    name = "PCOS Diagnosis"
-    url = "/pcos-diagnosis/"
+    identifier = "treatment"
+    name = "Treatment"
+    url = "/treatment"
     weight = 3
   [[menu.main]]
-    identifier = "treatment-plan"
-    name = "Treatment Plan"
-    url = "/treatment-plan/"
+    identifier = "lifestyle"
+    name = "Lifestyle"
+    url = "/lifestyle"
     weight = 4
-  [[menu.main]]
-    identifier = "severe-symptoms"
-    name = "Severe Symptoms"
-    url = "/severe-symptoms/"
-    weight = 5
-  [[menu.main]]
-    identifier = "consult-provider"
-    name = "Consult Provider"
-    url = "/consult-provider/"
-    weight = 6
-  [[menu.main]]
-    identifier = "irregular-periods"
-    name = "Irregular Periods"
-    url = "/irregular-periods/"
-    weight = 7
 
 [markup.goldmark.renderer]
   unsafe = true

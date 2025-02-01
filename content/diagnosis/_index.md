@@ -4,8 +4,6 @@ date: 2025-01-27
 description: "A comprehensive guide to understanding PCOS diagnosis, including symptoms, tests, and what to expect during the diagnostic process."
 ---
 
-# Understanding PCOS Diagnosis
-
 If you're here, you might be wondering if you have Polycystic Ovary Syndrome (PCOS) or trying to understand a recent diagnosis. Perhaps you're a parent concerned about your daughter's symptoms. Whatever brings you here, we want you to know that you're in the right place.
 
 ## You're Not Alone
