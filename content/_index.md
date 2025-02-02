@@ -8,6 +8,10 @@ draft: false
 
 Polycystic Ovary Syndrome (PCOS) is a common hormonal disorder affecting women of reproductive age. This guide aims to provide you with valuable information and support for managing PCOS effectively.
 
+## Why This Website Exists
+
+This website was born from personal experience. When Emily was diagnosed with PCOS, we found ourselves overwhelmed by complex medical information. We decided to turn our journey of understanding PCOS into a resource that makes scientific knowledge accessible to everyone. [Read our full story](/about) to learn how we're turning complicated research into clear, practical information you can use.
+
 ## What is PCOS?
 
 PCOS is a complex condition that requires a proper diagnosis from a healthcare professional. It can manifest with various symptoms and affect different aspects of a woman's health.
