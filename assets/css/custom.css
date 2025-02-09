@@ -13,20 +13,6 @@
   --width: 800px;
 }
 
-/* Dark mode adjustments */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background-color: #2D232F;
-    --heading-color: #FF9EC4;
-    --text-color: #F0E6E8;
-    --link-color: #FF8AB4;
-    --visited-color: #E87FAA;
-    --code-background-color: #3D2C3C;
-    --code-color: #FFB5D0;
-    --blockquote-color: #F0E6E8;
-  }
-}
-
 /* Base styles */
 body {
   font-family: var(--font-secondary);
@@ -107,7 +93,7 @@ blockquote {
 }
 
 blockquote::before {
-  content: """;
+  content: "";
   font-family: Georgia, serif;
   font-size: 4em;
   position: absolute;
@@ -157,4 +143,47 @@ ul.blog-posts li {
 ul.blog-posts li:hover {
   background-color: rgba(210, 63, 127, 0.05);
   padding-left: 1em;
+}
+
+/* Dark mode adjustments */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #1A1A1A;
+    --heading-color: #FF9EC4;
+    --text-color: #E0E0E0;
+    --link-color: #FF8AB4;
+    --visited-color: #E87FAA;
+    --code-background-color: #2A2A2A;
+    --code-color: #FFB5D0;
+    --blockquote-color: #E0E0E0;
+  }
+
+  main {
+    background: #242424;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  }
+
+  nav a:hover {
+    background-color: rgba(255, 158, 196, 0.1);
+  }
+
+  th {
+    background-color: rgba(255, 158, 196, 0.1);
+  }
+
+  ul.blog-posts li:hover {
+    background-color: rgba(255, 158, 196, 0.05);
+  }
+
+  blockquote::before {
+    color: rgba(255, 158, 196, 0.1);
+  }
+
+  h1::after, h2::after {
+    background: linear-gradient(to right, var(--heading-color), transparent);
+  }
+
+  table th, table td {
+    border-bottom: 1px solid rgba(255, 158, 196, 0.1);
+  }
 }
