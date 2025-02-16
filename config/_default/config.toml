@@ -1,6 +1,7 @@
 baseURL = "/"
 title = "PCOS With Science: Understanding Polycystic Ovary Syndrome"
 theme = "hugo-bearblog"
+enableRobotsTXT = true
 
 [params]
   description = "Comprehensive information about Polycystic Ovary Syndrome (PCOS), its symptoms, diagnosis, and management. By Science."
